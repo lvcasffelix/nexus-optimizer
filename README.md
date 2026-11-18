@@ -29,6 +29,8 @@ O código mostrado deve ser **igual** ao do `SHA256.txt` da mesma versão. Se fo
 
 - **Dashboard e diagnóstico:** CPU, GPU, RAM, temperatura, disco e o que pode estar atrapalhando seus jogos.
 - **Gaming Boost:** perfis Safe, Performance e Custom com plano, riscos e confirmação antes de qualquer alteração.
+- **Latência & Controles:** Timer no Máximo (como o Set Timer Resolution), perfis Competitivo/Padrão, teste de mouse (Hz)
+  e de controle, monitor na frequência máxima e guia de limite de FPS para o seu monitor.
 - **Perfis por jogo**, **FPS & Benchmarks** (com PresentMon) e comparação antes/depois.
 - **Limpeza Inteligente** com prévia, **arquivos duplicados** (cópias vão para a Lixeira) e **saúde do SSD**.
 - **Histórico & Restauração:** cada alteração guarda o valor original e pode ser desfeita.
@@ -36,7 +38,8 @@ O código mostrado deve ser **igual** ao do `SHA256.txt` da mesma versão. Se fo
 ## O que ele **nunca** faz
 
 Não desativa antivírus, firewall, Windows Update ou UAC; não mexe na BIOS; não faz overclock; não interfere em jogos
-nem em anticheats; não promete FPS sem medir; não coleta nem envia seus dados.
+nem em anticheats (não injeta código, não simula teclas, não mexe no processo do jogo); não promete FPS sem medir;
+não coleta nem envia seus dados.
 
 ## Termos
 
